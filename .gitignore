@@ -1,0 +1,4 @@
+*.pyc
+tracking/data/
+tracking/results/
+
